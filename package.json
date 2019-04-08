@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "big.js": "^5.1.2",
+    "react-scripts": "^1.1.4",
     "github-fork-ribbon-css": "^0.2.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
